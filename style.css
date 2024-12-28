@@ -1,0 +1,26 @@
+div > h1{
+    color:whitesmoke;
+    font-family:"Rubik Vinyl", serif;
+    background-color: #A294F9;
+    text-align:center;
+    border:10px dashed black
+}
+.contact{
+    color:whitesmoke;
+    font-family:"Rubik Vinyl", serif;
+    background-color: #A294F9;
+    text-align:center;
+}
+.about{
+    color:whitesmoke;
+    font-family:"Rubik Vinyl", serif;
+    background-color: #A294F9;
+}
+*{
+    background-color:#F5EFFF
+}
+h2{
+    color:#8B5DFF;
+    font-family:"Rubik Vinyl", serif;
+
+    }
